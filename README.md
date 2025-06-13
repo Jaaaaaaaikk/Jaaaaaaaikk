@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I'm a passionate and adaptable individual with a w
 
 ## 🚀 Live Projects
 
-- [My Frontend Project on Vercel](https://auctionwave-final.vercel.app/) – A frontend-only project deployed with Vercel for showcasing my UI and coding skills.
+- [AuctionWave - Reverse Web-based Bidding System](https://auctionwave-final.vercel.app/).
+- [Tesda Inventory Monitoring System](https://tesda-test.vercel.app/).
 
 ---
 
