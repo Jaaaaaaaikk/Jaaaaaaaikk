@@ -35,5 +35,5 @@ Welcome to my GitHub profile! I'm a passionate and adaptable individual with a w
 Feel free to reach out or collaborate on interesting projects!
 
 <!-- Optional: Add social links or contact info here -->
-[Facebook](https://www.facebook.com/kenu.villar?rdid=m37STcCZmHtzqEQe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18yQ1yyqcZ%2F#) • [LinkedIn](https://www.linkedin.com/in/jaikhene-villar-97b38b36b) • [Email](mailto:xetorium123z@gmail.com)
+[Facebook]([https://www.facebook.com/kenu.villar?rdid=m37STcCZmHtzqEQe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18yQ1yyqcZ%2F#](https://www.facebook.com/share/18yQ1yyqcZ/)) • [LinkedIn](https://www.linkedin.com/in/jaikhene-villar-97b38b36b) • [Email](mailto:xetorium123z@gmail.com)
 
